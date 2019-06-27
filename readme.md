@@ -14,7 +14,7 @@ Description
 
 This slides originate from Hang Liu when he was a PhD student. He actively maintains and updates this slides through his own experience. Now, a considerable number of students, both native and international, find the slides constructive! 
 
-After a discussion with Dr. Chunhua Liao at ACM FCRC '19, I decided to *open source* the slides and hope them would benefit the public at large.
+After a discussion with Dr. Chunhua Liao at ACM FCRC '19, Hang Liu decided to *open source* the slides and hope them would benefit the public at large.
 
 Please enjoy the materials and your feedbacks are always welcome!
 
