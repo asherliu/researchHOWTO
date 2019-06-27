@@ -1,5 +1,11 @@
 # Actionable Information About How to Do Research
 
+---------
+Slides
+------------------
+[How to do research](https://docs.google.com/presentation/d/1fWNPS5Ts2s13T3GFQIo_6H2LEOT1ZVHy-Pu_tDHHp_A/edit#slide=id.p)
+
+
 -------
 Description
 ---------------
