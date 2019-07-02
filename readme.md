@@ -5,6 +5,10 @@ Slides
 ------------------
 [How to do research](https://docs.google.com/presentation/d/1fWNPS5Ts2s13T3GFQIo_6H2LEOT1ZVHy-Pu_tDHHp_A/edit#slide=id.p)
 
+-----
+Scope
+------------------
+The contents of this slides mainly focus on High-Performance Computing (HPC), System and Database.
 
 -------
 Description
@@ -19,9 +23,6 @@ After a discussion with Dr. Chunhua Liao at ACM FCRC '19, Hang Liu decided to *o
 Please enjoy the materials and your feedbacks are always welcome!
 
 
-
-
-
 ------
 Contact
 ------------
@@ -29,3 +30,10 @@ Hang Liu
 
 Email: asher.hangliu@gmail.com
 
+
+-----
+Acknowledgement
+-------------
+NSF CRII Award [1850274](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850274&HistoricalAwards=false).
+
+DOE [SRP Fellowship](https://www.energy.gov/).
