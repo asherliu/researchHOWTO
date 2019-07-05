@@ -36,4 +36,4 @@ Acknowledgement
 -------------
 NSF CRII Award [1850274](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850274&HistoricalAwards=false).
 
-DOE [SRP Fellowship](https://www.energy.gov/).
+DOE [SRP Fellowship](https://www.energy.gov/) [Host: Dr. Xiaoye Sherry Li].
