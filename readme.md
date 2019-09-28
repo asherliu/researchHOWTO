@@ -1,4 +1,4 @@
-# Actionable Information About How to Do Research
+# Actionable Advice About How to Do Research
 
 ---------
 Slides
