@@ -1,4 +1,4 @@
-# Actionable Advice About How to Do Research
+# Actionable Guidance About How to Do Research
 
 ---------
 Slides
@@ -34,6 +34,6 @@ Email: asher.hangliu@gmail.com
 -----
 Acknowledgement
 -------------
-NSF CRII Award [1850274](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850274&HistoricalAwards=false).
+NSF CRII Award [2000722](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2000722&HistoricalAwards=false).
 
 DOE [SRP Fellowship](https://www.energy.gov/) [Host: Dr. Xiaoye Sherry Li and Dr. Aydın Buluç].
