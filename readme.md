@@ -34,6 +34,9 @@ Email: asher.hangliu@gmail.com
 -----
 Acknowledgement
 -------------
+[eduHPC '19] [Actionable Guidance for Fresh HPC Researchers](http://personal.stevens.edu/~hliu77/docs/eduhpc19.pdf)
+
 NSF CRII Award [2000722](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2000722&HistoricalAwards=false).
 
 DOE [SRP Fellowship](https://www.energy.gov/) [Host: Dr. Xiaoye Sherry Li and Dr. Aydın Buluç].
+
