@@ -3,10 +3,10 @@
 ---------
 Materials
 ------------------
-- How to do research: [Google slides](https://docs.google.com/presentation/d/1fWNPS5Ts2s13T3GFQIo_6H2LEOT1ZVHy-Pu_tDHHp_A/edit#slide=id.p), [Youtube video](https://www.youtube.com/watch?v=g1cUcJ4DOdI&t=2100s)
+- How to do research: [Google slides](https://docs.google.com/presentation/d/1fWNPS5Ts2s13T3GFQIo_6H2LEOT1ZVHy-Pu_tDHHp_A/edit#slide=id.p), [Youtube video](https://www.youtube.com/watch?v=g1cUcJ4DOdI&t=2100s).
 
 
-- How to write an NSF CAREER proposal (my own experience): [Google slides](https://docs.google.com/presentation/d/1WzOPkXaGoS1THQP68rCCX7fxD2QTmpC5QmAWnirmCWI/edit?usp=sharing)
+- How to write an NSF CAREER proposal (my own experience): [Google slides](https://docs.google.com/presentation/d/1WzOPkXaGoS1THQP68rCCX7fxD2QTmpC5QmAWnirmCWI/edit?usp=sharing).
 
 -----
 Scope
