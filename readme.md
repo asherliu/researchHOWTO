@@ -40,7 +40,7 @@ Email: asher.hangliu@gmail.com
 -----
 Acknowledgement
 -------------
-NSF CAREER Award [2046102](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2046102&HistoricalAwards=false)
+NSF CAREER Award [2046102](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2046102&HistoricalAwards=false).
 
 [eduHPC '19] [Actionable Guidance for Junior HPC Researchers](http://personal.stevens.edu/~hliu77/docs/eduhpc19.pdf)
 
