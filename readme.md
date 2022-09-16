@@ -24,7 +24,7 @@ This slides originate from Hang Liu when he was a PhD student. He actively maint
 After a discussion with Dr. Chunhua Liao at ACM FCRC '19, Hang Liu decided to *open source* the slides, hoping them would benefit the public at large.
 
 
-[How to write an NSF CAREER proposal (my own experience)](https://docs.google.com/presentation/d/1WzOPkXaGoS1THQP68rCCX7fxD2QTmpC5QmAWnirmCWI/edit?usp=sharing) is presented in the NSF CAREER workshop 2021 at the Stevens Institute of Technology. I truly understood that many junior faculties are doing exceptional researches, but just fell short at putting together a **funded** proposal. I sincerely hope that this slide could offer some help. Best of luck!
+[How to write an NSF CAREER proposal (my own experience)](https://docs.google.com/presentation/d/1WzOPkXaGoS1THQP68rCCX7fxD2QTmpC5QmAWnirmCWI/edit?usp=sharing) is presented in the NSF CAREER workshop 2021 at the Stevens Institute of Technology. I truly understood that many junior faculties are doing exceptional researches, but just fell short at putting together a **fundable** proposal. I sincerely hope that this slide could offer some help. Best of luck!
 
 Please enjoy the materials and your feedbacks are always welcome!
 
