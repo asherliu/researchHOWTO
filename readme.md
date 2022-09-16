@@ -28,6 +28,13 @@ After a discussion with Dr. Chunhua Liao at ACM FCRC '19, Hang Liu decided to *o
 
 Please enjoy the materials and your feedbacks are always welcome!
 
+**Slides update log**:
+
+> 2021 and prior: the basic plots of these slides/videos;
+
+> July, 2022: Integrating ideas from Koohi Esfahani on "rebuttal" and "when to publish";
+
+> Sept, 2022: Adding the importance of and how to perform "weekly meetings";
 
 ------
 Contact
