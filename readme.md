@@ -36,6 +36,8 @@ Please enjoy the materials and your feedback is always welcome!
 
 > Sept, 2022: Adding the importance of and how to perform "weekly meetings";
 
+> Dec, 2022: How to social with senior administrative person?
+
 ------
 Contact
 ------------
