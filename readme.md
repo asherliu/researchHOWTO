@@ -41,7 +41,7 @@ Please enjoy the materials and your feedback is always welcome!
 ------
 Contact
 ------------
-Hang Liu (http://personal.stevens.edu/~hliu77/)
+Hang Liu (https://asherliu.github.io/)
 
 Email: asher.hangliu@gmail.com
 
