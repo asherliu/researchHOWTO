@@ -28,7 +28,7 @@ After a discussion with Dr. Chunhua Liao at ACM FCRC '19, Hang Liu decided to *o
 
 Please enjoy the materials and your feedback is always welcome!
 
-**Slides update log**:
+**[How to do research](https://docs.google.com/presentation/d/1fWNPS5Ts2s13T3GFQIo_6H2LEOT1ZVHy-Pu_tDHHp_A/edit#slide=id.p) update log**:
 
 > 2021 and prior: the basic plots of these slides/videos;
 
