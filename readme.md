@@ -38,6 +38,8 @@ Please enjoy the materials and your feedback is always welcome!
 
 > Dec, 2022: How to social with senior administrative person "happily"?
 
+> Feb, 2023: 学而不思则罔，思而不学则殆 & 中庸 (How to balance reading/learning and critical thinking/reflecting?)
+
 ------
 Contact
 ------------
