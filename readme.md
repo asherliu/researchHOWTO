@@ -8,6 +8,8 @@ Materials
 
 - How to write an NSF CAREER proposal (my own experience): [Google slides](https://docs.google.com/presentation/d/1WzOPkXaGoS1THQP68rCCX7fxD2QTmpC5QmAWnirmCWI/edit?usp=sharing).
 
+- Please contact me if you need my NSF CAREER proposal. 
+
 -----
 Scope
 ------------------
