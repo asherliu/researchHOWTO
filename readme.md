@@ -8,7 +8,7 @@ Materials
 
 - How to write an NSF CAREER proposal (my own experience): [Google slides](https://docs.google.com/presentation/d/1WzOPkXaGoS1THQP68rCCX7fxD2QTmpC5QmAWnirmCWI/edit?usp=sharing).
 
-- My redacted NSF CAREER proposal. Please contact me at asher.hangliu@gmail.com if you want a copy of it. 
+- My redacted NSF CAREER proposal. Please contact me at asher.hangliu@gmail.com if you want a copy. 
 
 -----
 Scope
