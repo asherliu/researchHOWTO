@@ -42,10 +42,11 @@ Please enjoy the materials and your feedback is always welcome!
 
 > Feb, 2023: 学而不思则罔，思而不学则殆 & 中庸 (How to balance reading/learning and critical thinking/reflecting?)
 
-> May, 2023: 治大国，如烹小鲜 - 老子道德经 (Managing a big country/project/paper is like cooking a small dish - the essence of patience)
+> May, 2023: 治大国，如烹小鲜 - 老子道德经 (Managing a big country/project/paper is like cooking a small dish - the essence of patience.)
 
-> July, 2023: 知之为知之，不知为不知，是知也！(Knowing is knowing, (but more importantly) not knowing is not knowing.  This (mindset) is indeed of wisdom)
+> July, 2023: 知之为知之，不知为不知，是知也！(Knowing is knowing, (but more importantly) not knowing is not knowing.  This (mindset) is true wisdom.)
 
+> August, 23: 温故而知新，可以为师矣! (If you can get some new knowledge by reviewing the old knowledge, you can be a teacher.)
 
 
 
