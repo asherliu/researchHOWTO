@@ -62,11 +62,17 @@ Email: asher.hangliu@gmail.com
 -----
 Acknowledgement
 -------------
-NSF CAREER Award [2046102](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2046102&HistoricalAwards=false).
+NSF CAREER Award [2326141](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326141&HistoricalAwards=false). 
 
-[eduHPC '19] [Actionable Guidance for Junior HPC Researchers](http://personal.stevens.edu/~hliu77/docs/eduhpc19.pdf)
+NSF CRII Award [2331536](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331536&HistoricalAwards=false).
 
-NSF CRII Award [2000722](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2000722&HistoricalAwards=false).
+NSF Medium Award [2212370](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212370&HistoricalAwards=false).
+
+NSF CICI Award [2319880](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319880).
+
+NSF ExpandQISE Award [2328948](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2328948).
 
 DOE [SRP Fellowship](https://www.energy.gov/) [Host: Dr. Xiaoye Sherry Li and Dr. Aydın Buluç].
+
+**Original Paper**: [eduHPC '19] [Actionable Guidance for Junior HPC Researchers](http://personal.stevens.edu/~hliu77/docs/eduhpc19.pdf)
 
