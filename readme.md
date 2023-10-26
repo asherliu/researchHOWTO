@@ -48,7 +48,9 @@ Please enjoy the materials and your feedback is always welcome!
 
 > August, 23: 温故而知新，可以为师矣! (If you can get some new knowledge by reviewing the old knowledge, you can be a teacher.)
 
-> September, 23: How to mentor the 1st project for a new (Ph.D.) student? 
+> September, 23: How to mentor the 1st project for a new (Ph.D.) student?
+
+> October, 23: A plan ≈ a contract
 
 
 ------
