@@ -66,6 +66,8 @@ Acknowledgement
 -------------
 NSF CAREER Award [2326141](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326141&HistoricalAwards=false). 
 
+NSF CSSI Award [2411294](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2411294).
+
 NSF CRII Award [2331536](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331536&HistoricalAwards=false).
 
 NSF Medium Award [2212370](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212370&HistoricalAwards=false).
