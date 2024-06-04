@@ -52,6 +52,7 @@ Please enjoy the materials and your feedback is always welcome!
 
 > October, 23: A plan ≈ a contract
 
+> June, 24: 为道日损 for doing a good research.
 
 ------
 Contact
