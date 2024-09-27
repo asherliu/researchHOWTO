@@ -56,7 +56,7 @@ Please enjoy the materials and your feedback is always welcome!
 
 > July 18, 2024: Short bio, and Suggestions for College Life. This edit is used for a presentation at Rutgers.        
 
-
+> Sept, 27, 2024: What is a successful PhD student-advisor meeting?  
 ------
 Contact
 ------------
