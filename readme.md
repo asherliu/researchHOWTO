@@ -60,7 +60,7 @@ Please enjoy the materials and your feedback is always welcome!
 
 > Sept 27, 2024: 温故而知新，可以为师矣 （ii）- Levels of comprehension      
 
-> Oct 25, 2024: Different stages of wrapping a paper
+> Oct 25, 2024: Different stages of wrapping up a paper
 
 
 ------
