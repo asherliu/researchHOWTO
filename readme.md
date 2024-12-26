@@ -52,7 +52,7 @@ Please enjoy the materials and your feedback is always welcome!
 
 > October, 23: A plan ≈ a contract
 
-> June, 24: 为道日损 for doing a good research.
+> June 24: 为道日损 for doing good research.
 
 > July 18, 2024: Short bio, and Suggestions for College Life. This edit is used for a presentation at Rutgers.        
 
@@ -61,6 +61,10 @@ Please enjoy the materials and your feedback is always welcome!
 > Sept 27, 2024: 温故而知新，可以为师矣 （ii）- Levels of comprehension      
 
 > Oct 25, 2024: Different stages of wrapping up a paper
+
+> Dec 26, 2024: 天之道 损有余而补不足。人之道 则不然 损不足以奉有余。
+English version: Better researchers got even better while poorer performing ones sunk down to even worse. 
+
 
 
 ------
