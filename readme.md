@@ -63,7 +63,10 @@ Please enjoy the materials and your feedback is always welcome!
 > Oct 25, 2024: Different stages of wrapping up a paper
 
 > Dec 26, 2024: 天之道 损有余而补不足。人之道 则不然 损不足以奉有余。
-English version: Better researchers got even better while poorer performing ones sunk down to even worse. 
+English version: Better researchers got even better while poorer performing ones sunk down to even worse.
+
+> Jan 31, 2025: 君子求诸己，小人求诸人
+English version: Let yourself control your happiness, not others! How?
 
 
 
